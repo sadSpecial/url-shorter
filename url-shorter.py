@@ -1,3 +1,7 @@
+# instagram page : https://instagram.com/abolfazl._r?igshid=YmMyMTA2M2Y
+# Email: abolfazl8abolfazl@yahoo.com
+# MyGithub : https://github.com/sadSpecial
+
 import pyshorteners as pys
 
 # To obtain an API key, you should visit the website 'https://app.bitly.com'
